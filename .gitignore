@@ -28,3 +28,4 @@ project.lock.json
 .build/
 .testPublish/
 node_modules/
+.vs/
